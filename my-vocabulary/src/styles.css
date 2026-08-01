@@ -55,7 +55,7 @@ input[type=number] { width: 70px; }
 .keybtn:active { background: var(--t-primary); }
 
 .avatarbtn { display: flex; flex-direction: column; align-items: center; gap: 10px; cursor: pointer; background: none; border: none; font-family: inherit; color: var(--t-text); }
-.avatarcircle { width: 76px; height: 76px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #E9CD4C; box-shadow: 0 4px 14px rgba(108,123,255,0.35); }
+.avatarcircle { width: 76px; height: 76px; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: #E9CD4C; box-shadow: 0 4px 14px rgba(233,205,76,0.30); }
 .avatarbtn:active .avatarcircle { transform: scale(0.96); }
 
 .metric { background: var(--t-card); border-radius: var(--t-radius); padding: 12px; }
